@@ -2,7 +2,7 @@
 {
 	width: 750px;
 	height: 750px;
-	left: 550px;
+	left: 350px;
 	top: 50px;
 	position: absolute;
 	border-style: solid;
@@ -18,7 +18,7 @@
 {
 	width: 750px;
 	height: 750px;
-	left: 550px;
+	left: 350px;
 	top: 810px;
 	position: absolute;
 	border-style: solid;
@@ -33,7 +33,7 @@
 {
 	width: 250px;
 	height: 110px;
-	left: 800px;
+	left: 600px;
 	top: 125px;
 	position: absolute;
 	border-style: solid;
@@ -62,7 +62,7 @@ h1
 	font-size: 125%;
 	color: rgb(49, 66, 169);
 	position: absolute;
-	left: 825px;
+	left: 625px;
 	top: 125px;
 	text-align: center;
 }
@@ -79,7 +79,7 @@ p
 	font-family: Georgia;
 	font-size: 95%;
 	color: rgb(49, 66, 169);
-	float: left; clear: left; margin-left: 575px; margin-top: 250px;
+	float: left; clear: left; margin-left: 375px; margin-top: 250px;
 	border-style: solid;
 	border-color: black;
 	border-width: 1px;
@@ -100,7 +100,7 @@ p
 	border-color: black;
 	border-width: 1px;
 	padding: 10px 10px 0px 20px;
-	float: left; clear: left; margin-left: 990px; margin-top: -1200px;
+	float: left; clear: left; margin-left: 790px; margin-top: -1200px;
 	border-radius: 5px;
 }
 .bereiding
@@ -110,7 +110,7 @@ p
 	color: rgb(49, 66, 169);
 	padding: 10px;
 	width: 500px;
-	float: left; clear: left; margin-left: 600px; margin-top: -600px;
+	float: left; clear: left; margin-left: 400px; margin-top: -600px;
 }
 .link
 {
@@ -122,15 +122,6 @@ p
 	border-width: 1px;
 	padding: 10px;
 	width: 250px;
-	float: left; clear: left; margin-left: 600px; margin-top: -50px;
+	float: left; clear: left; margin-left: 400px; margin-top: -50px;
 	border-radius: 5px;
-}
-.inleiding
-{
-	font-family: Georgia;
-	font-size: 150%;
-	color: rgb(49, 66, 169);
-	position: absolute;
-	left: 825px;
-	top: 125px;
 }
